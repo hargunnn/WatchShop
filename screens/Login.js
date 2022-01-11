@@ -39,7 +39,6 @@ return(
     onPress={()=>{navigation.navigate('Home')}}
     title='Login'
     color={'brown'}
-    style={{margin: 15}}
     />
 
     <Button
